@@ -60,7 +60,6 @@ def movies_with_director_key(name, movies_collection)
    p updated_movies
 
 end
-end
 
 
 def gross_per_studio(collection)
